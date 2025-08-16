@@ -1,5 +1,3 @@
-import React from "react";
-
 import EmailSignup from "@/components/EmailSignup";
 
 const Index = () => {
